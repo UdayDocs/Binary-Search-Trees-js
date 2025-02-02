@@ -2,6 +2,9 @@
 
 This project demonstrates the implementation and functionality of a Binary Search Tree (BST) using JavaScript. It covers operations like insertion, deletion, traversal, height calculation, rebalancing, and more.
 
+## Resources
+https://www.youtube.com/watch?v=Ab6Xv1n0FoQ
+
 ## Features
 
 - Build a balanced BST from an array.
