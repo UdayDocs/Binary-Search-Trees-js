@@ -4,6 +4,7 @@ This project demonstrates the implementation and functionality of a Binary Searc
 
 ## Resources
 https://www.youtube.com/watch?v=Ab6Xv1n0FoQ
+https://www.youtube.com/watch?v=VCTP81Ij-EM
 
 ## Features
 
